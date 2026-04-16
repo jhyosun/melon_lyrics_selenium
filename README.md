@@ -36,9 +36,9 @@
 
 #### 🔎 검색 및 페이지 이동
 
-![image.png](34d8239d-b7e3-4f31-b56e-c21151d42334.png)
+![image.png](images/34d8239d-b7e3-4f31-b56e-c21151d42334.png)
 
-![image.png](5ab3d9ab-a630-4c51-bdc9-86032390bc81.png)
+![image.png](images/5ab3d9ab-a630-4c51-bdc9-86032390bc81.png)
 
 👉 Selenium의 명시적 대기(`WebDriverWait`)를 활용하여 요소가 로드될 때까지 기다린 후 안정적으로 동작하도록 구현했다.
 
@@ -62,7 +62,7 @@
 
 #### 📝 가사 데이터 추출
 
-![image.png](image.png)
+![image.png](images/image.png)
 
 👉 `.text`를 활용하여 페이지 내 가사 데이터를 추출했다.
 
@@ -72,7 +72,7 @@
 
 주요 구현 포인트:
 
-![image.png](image%201.png)
+![image.png](images/image%201.png)
 
 - `WebDriverWait`을 활용한 안정적인 요소 탐색
 - `expected_conditions`를 사용한 동기화 처리
